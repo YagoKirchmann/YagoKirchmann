@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Suporte Sênior em Convcard | Grupo Trier.<br>
+  Analista comercial em Convcard Intituição de Pagamentos.<br>
 </p>
 
 <p align="left">
