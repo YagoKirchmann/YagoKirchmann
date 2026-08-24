@@ -38,15 +38,6 @@ Analista de Negócios e Contas na <b>Convcard</b> (Instituição de Pagamentos) 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YagoKirchmann&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YagoKirchmann&theme=dark&hide_border=true&background=0d1117" />
-</p>
-
----
-
 ### 📫 Contato
 
 <p align="left">
@@ -54,6 +45,6 @@ Analista de Negócios e Contas na <b>Convcard</b> (Instituição de Pagamentos) 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:yago.kirchmann@hotmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
 </a>
 </p>
